@@ -1,0 +1,3 @@
+DLock.new do
+  ... code that should not run in parallel across different threads/processes ...
+end
